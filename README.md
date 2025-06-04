@@ -5,7 +5,7 @@
 ## 💡 Sobre mim
 
 - 🎓 **Técnico em Análise e Desenvolvimento de Sistemas** – SENAI-SP  
-- 🎓 **Ciência da Computação** – Cursando (Previsão de Conclusão: 2028)  
+- 🎓 **Bacharelado em Ciência da Computação** – Universidade Anhembi Morumbi (em andamento, previsão de conclusão: 2028)  
 - 🏛️ Atuo na área administrativa pública  
 - 💻 Apaixonado por tecnologia e inovação  
 - 🎯 Foco em crescer na área de desenvolvimento  
@@ -46,6 +46,10 @@ O app será uma **plataforma de conexão entre pequenos negócios e consumidores
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusOliveiraT25&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MateusOliveiraT25&theme=radical)
+
+## 📊 Calendário de Contribuições no GitHub
+
+![GitHub Contributions Calendar](https://activity-graph.herokuapp.com/graph?username=MateusOliveiraT25&theme=react-dark)
 
 ## 📫 Como me encontrar
 
