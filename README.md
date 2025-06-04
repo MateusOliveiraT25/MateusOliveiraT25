@@ -47,9 +47,10 @@ O app será uma **plataforma de conexão entre pequenos negócios e consumidores
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MateusOliveiraT25&theme=radical)
 
-## 📊 Calendário de Contribuições no GitHub
+## 📊 Meu Calendário de Contribuições no GitHub
 
-![GitHub Contributions](https://github.com/users/MateusOliveiraT25/contributions)
+[Veja meu calendário de contribuições no GitHub](https://github.com/MateusOliveiraT25)
+
 
 ## 📫 Como me encontrar
 
