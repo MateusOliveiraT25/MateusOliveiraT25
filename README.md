@@ -1,4 +1,4 @@
-# Olá, eu sou o Mateus Oliveira! 👋
+# Olá, eu sou o Mateus! 👋
 
 💼 Atualmente trabalho com **administração** na prefeitura, mas estou **mergulhando no mundo da programação** e aprendendo algo novo a cada dia. Sempre em busca de novos desafios e apaixonado por tecnologia, busco maneiras de tornar a vida das pessoas mais **fácil e eficiente**. 🚀💻
 
