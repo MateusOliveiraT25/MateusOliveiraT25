@@ -4,7 +4,7 @@
 
 ## 💡 Sobre mim
 
-- 🎓 **Técnico em Análise e Desenvolvimento de Sistemas** – SENAI-SP  
+- 🎓 **Técnico em Desenvolvimento de Sistemas** – SENAI-SP  
 - 🎓 **Bacharelado em Ciência da Computação** – Universidade Anhembi Morumbi (em andamento, previsão de conclusão: 2028)  
 - 🏛️ Atuo na área administrativa pública  
 - 💻 Apaixonado por tecnologia e inovação  
