@@ -10,6 +10,13 @@
 - 💻 Apaixonado por tecnologia e inovação  
 - 🎯 Foco em crescer na área de desenvolvimento  
 
+## 🏆 Certificados
+
+- **Análise de Dados** – Ecossistema Ânima  
+- **Java Foundations** – Oracle Academy  
+- **Programação Java** – SENAI-SP  
+- **Programação Banco de Dados** – SENAI-SP  
+
 ## 🚀 Projetos em destaque
 
 - **[economia-solidaria-frontend](https://github.com/MateusOliveiraT25/economia-solidaria-frontend)**
