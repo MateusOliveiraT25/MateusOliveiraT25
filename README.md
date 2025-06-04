@@ -49,7 +49,7 @@ O app será uma **plataforma de conexão entre pequenos negócios e consumidores
 
 ## 📊 Calendário de Contribuições no GitHub
 
-![GitHub Contributions Calendar](https://activity-graph.herokuapp.com/graph?username=MateusOliveiraT25&theme=react-dark)
+![GitHub Contributions](https://github.com/users/MateusOliveiraT25/contributions)
 
 ## 📫 Como me encontrar
 
