@@ -19,7 +19,7 @@
 
 ## 🚀 Projetos em destaque
 
-- **[economia-solidaria-frontend](https://github.com/MateusOliveiraT25/economia-solidaria-frontend)**
+- **[economia-solidaria-frontend](https://github.com/oliveiramarcelo12/ProjetoFinal)**
 - **[JAVA.DEVNOT](https://github.com/MateusOliveiraT25/JAVA.DEVNOT)**
 - **[KingPetShopXampp](https://github.com/MateusOliveiraT25/KingPetShopXampp)**
 - **[PhpProjects](https://github.com/MateusOliveiraT25/PhpProjects)**
