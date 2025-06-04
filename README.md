@@ -19,7 +19,13 @@
 
 ## 🚀 Projetos em destaque
 
-- **[economia-solidaria-frontend](https://github.com/oliveiramarcelo12/ProjetoFinal)**
+### 🌟 [Economia Solidária - Frontend](https://github.com/oliveiramarcelo12/ProjetoFinal)
+
+**Descrição:**  
+O app será uma **plataforma de conexão entre pequenos negócios e consumidores locais**. Ele visa oferecer **visibilidade**, **acesso fácil a produtos/serviços** e um **canal direto para negociação**, enquanto incentiva o **consumo local** e a **economia solidária**.
+
+---
+
 - **[JAVA.DEVNOT](https://github.com/MateusOliveiraT25/JAVA.DEVNOT)**
 - **[KingPetShopXampp](https://github.com/MateusOliveiraT25/KingPetShopXampp)**
 - **[PhpProjects](https://github.com/MateusOliveiraT25/PhpProjects)**
